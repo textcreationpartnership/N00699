@@ -117,8 +117,8 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:000845_0000_0FABA154FA8D49D0"/>
-            <pb facs="tcp:000845_0001_0FABA155624842A8"/>
+            <pb facs="unknown:000845_0000_0FABA154FA8D49D0"/>
+            <pb facs="unknown:000845_0001_0FABA155624842A8"/>
             <head>His Excellency, THE Earl of BELLOMONT HIS SPEECH To the Repreſentatives of his Majeſties Province of <hi>New-York,</hi> the 19<hi rend="sup">th</hi> of <hi>May,</hi> 1698.</head>
             <opener>
                <salute>Gentlemen;</salute>
@@ -128,7 +128,7 @@
                   <desc>•••</desc>
                </gap>ng you.</p>
             <p>
-               <pb n="2" facs="tcp:000845_0002_0FABA1566B5EFF30"/>It hath been repreſented to the Government in <hi>England,</hi> That this Province hath been a noted Receptacle of Pyrates, and the Trade of it under no Reſtriction, but the Acts of Trade violated, by the Neglect and Connivance of thoſe whoſe Duty it was to have prevented it. I hope, <hi>Gentlemen,</hi> you will put all the Diſcountenance imaginable on that flagi<g ref="char:EOLhyphen"/>tious Crime of <hi>Pyracy,</hi> which is not only the worſt ſort of Robbery, but is, for the moſt part attended with the horrid Sin of Murder, which is a great aggravation of that odious Practice, deteſted by all the Civil Nations of the World. 'Tis not only injurious to the Honour of his Majeſty, and the Engliſh Nation, but alſo highly prejudicial to the Trade of <hi>England,</hi> and particularly to the <hi>Eaſt-India</hi> Company. And the Gentlemen of the Council here preſent will bear me witneſs, that my Orders from his Majeſty are very ſtrict for enquiring into, and effectually preventing for the future that Lawleſs and Vile Trade of Pyracy within all my Governments.</p>
+               <pb n="2" facs="unknown:000845_0002_0FABA1566B5EFF30"/>It hath been repreſented to the Government in <hi>England,</hi> That this Province hath been a noted Receptacle of Pyrates, and the Trade of it under no Reſtriction, but the Acts of Trade violated, by the Neglect and Connivance of thoſe whoſe Duty it was to have prevented it. I hope, <hi>Gentlemen,</hi> you will put all the Diſcountenance imaginable on that flagi<g ref="char:EOLhyphen"/>tious Crime of <hi>Pyracy,</hi> which is not only the worſt ſort of Robbery, but is, for the moſt part attended with the horrid Sin of Murder, which is a great aggravation of that odious Practice, deteſted by all the Civil Nations of the World. 'Tis not only injurious to the Honour of his Majeſty, and the Engliſh Nation, but alſo highly prejudicial to the Trade of <hi>England,</hi> and particularly to the <hi>Eaſt-India</hi> Company. And the Gentlemen of the Council here preſent will bear me witneſs, that my Orders from his Majeſty are very ſtrict for enquiring into, and effectually preventing for the future that Lawleſs and Vile Trade of Pyracy within all my Governments.</p>
             <p>As I have declared my ſelf againſt Pyracy, and all Unlawful Trade, ſo I muſt aſſure you I will give you all the Encouragement I can poſſibly in carrying on a lawful Trade, and every thing elſe that will make you Happy and Flouriſhing.</p>
             <p>
                <hi>Mr. Speaker, and you Gentlemen Repreſentatives;</hi>
@@ -139,7 +139,7 @@
                   <desc>••</desc>
                </gap>dered the Engineer to go and viſit the Fronteers, and to report to me the State and Condition he finds the Fortifications in, which Report I intend for you, as ſoon as it comes to my hands.</p>
             <p>
-               <pb n="3" facs="tcp:000845_0003_0FABA15806BC9818"/>
+               <pb n="3" facs="unknown:000845_0003_0FABA15806BC9818"/>
                <hi>Gentlemen,</hi> I muſt remind you of the Neceſſity there is of finding out ſome Expedient to reconcile the Parties among you. I muſt own to you, I ſet my heart ſo much on it, that I ſhall think it the Glory of my Government to bring ſo good a Work to paſs. I deſire therefore you will think of the proper Methods to effect an entire Reconciliation among you. To be of one Faith and one Mind is not only an excellent Scripture Rule, but alſo a good Maxim in Government. Union amongſt a People is the Bond of Peace, and of Strength too.</p>
             <p>You cannot but know what Abuſes have been formerly in Elections of Members to ſerve in the Aſſembly, which tends much to the Subverſion of your Liberties. I do there<gap reason="illegible: indecipherable" extent="2 letters">
                   <desc>••</desc>
